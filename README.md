@@ -1,6 +1,6 @@
 # crtakip
 
-Live Demo : cizgitakip.netlify.app
+Live Demo : https://cizgitakip.netlify.app/
 
 ## Project setup
 ```
