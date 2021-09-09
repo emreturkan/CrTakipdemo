@@ -1,5 +1,7 @@
 # crtakip
 
+Live Demo : cizgitakip.netlify.app
+
 ## Project setup
 ```
 npm install
